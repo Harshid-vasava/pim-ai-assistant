@@ -1,0 +1,15 @@
+[
+    {
+      "id": "SKU001",
+      "name": "Wireless Mouse",
+      "category": "Electronics",
+      "description": "A wireless optical mouse with ergonomic design"
+    },
+    {
+      "id": "SKU002",
+      "name": "Bluetooth Headphones",
+      "category": "Audio",
+      "description": "Over-ear noise-cancelling Bluetooth headphones"
+    }
+  ]
+  
